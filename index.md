@@ -1,1 +1,4 @@
 # Beschreibung Charakter Luke Skywalker
+Hier entsteht gerade eine Webseite zu meinem Lieblingscharakter!
+Luke Skywalker ist ein Jedi Ritter in der Kinoserie Starwars. Er wird in mehreren folgenende dieser Serie begleitet wie er zum Jedi Ritter ausgebildet wird und gegen das Imperium kämpft!
+
