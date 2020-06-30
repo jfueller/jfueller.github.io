@@ -8,3 +8,5 @@ Luke Skywalker ist ein Jedi Ritter in der Kinoserie Starwars. Er wird in mehrere
 * Bruder von Lea
 * Freund von Han Solo
 * Sohn von Darth Vader
+
+> Wenn das Universum ein helles Zentrum hat, bist du auf diesem Planeten am weitesten davon weg
